@@ -18,10 +18,8 @@ I am a student myself, learning Computer Science and collecting various links an
 - [Recommendations](#recommendations)
 - [Contribution](#contribution)
 - [Programming Languages](#programming-languages)
+  - [JavaScript](#javascript)
 - [Web Dev](#web-dev)
-- [Microsoft Learn](#microsoft-learn)
-- [Linkedin Learning](#linkedin-learning)
-- [Educative.io](#educative-io)
 
 ## Recommendations
 ### Student Bonuses
@@ -54,8 +52,10 @@ Some of the resources may not be free but are still accessible. For example, <a 
 
 ### JavaScript
 
--<a href=""></a>
+#### Educative.io
+- <a href="https://www.educative.io/path/zero-to-hero-in-javascript">Zero to Hero in JavaScript ($5.83 per month, only accessible if paid)</a>
 
 ## Web Dev
 
+#### GitHub Repositories
 - <a href="https://github.com/microsoft/Web-Dev-For-Beginners">Microsoft Web Dev For Beginers</a>
