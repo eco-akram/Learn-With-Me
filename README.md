@@ -16,8 +16,9 @@ I am a student myself, learning Computer Science and collecting various links an
 ## Table of contents
 
 - [Recommendations](#recommendations)
-- [Computer Science](#computer-science)
-- [Github Student Pack](#github-student-pack)
+- [Contribution](#contribution)
+- [Programming Languages](#programming-languages)
+- [Web Dev](#web-dev)
 - [Microsoft Learn](#microsoft-learn)
 - [Linkedin Learning](#linkedin-learning)
 - [Educative.io](#educative-io)
@@ -33,7 +34,27 @@ First of all, you should apply for the <a href="https://education.github.com/pac
 - Cloud services
 - And much more...
 
+## Contribution
+
+We welcome contributions from all members of the community! Whether you've stumbled upon a valuable resource, want to share your own learning materials, or have suggestions for improving the repository, your contributions are highly appreciated. Here's how you can contribute:
+
+- **Adding Resources:** Feel free to add links to articles, tutorials, GitHub repositories, online courses, or any other learning materials that you find helpful.
+- **Improving Existing Content:** If you notice outdated or inaccurate information, or have better alternatives to existing resources, don't hesitate to make improvements.
+- **Feedback:** Share your feedback and suggestions on how we can make this repository even more useful for learners.
+
+If something is not free, please include the price and elaborate on it. For example: 
+> - <a href="#contribution">Advanced TypeScript - ($8.99 for the full course, but still enough for beginners)</a>
+> - <a href="#contribution">JS for beginners - ($3.99 for the full course, included in the <a href="https://education.github.com/pack">GitHub Student Developer Pack</a>)</a>
+
 # Resources
+
+Some of the resources may not be free but are still accessible. For example, <a href="https://www.educative.io/">Educative.io</a> is mostly free, and if you are a student and are applied to the <a href="https://education.github.com/pack">GitHub Student Developer Pack</a>, you can have full access to the platform.
+
+## Programming Languages
+
+### JavaScript
+
+-<a href=""></a>
 
 ## Web Dev
 
