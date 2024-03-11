@@ -15,7 +15,7 @@ I am a student myself, learning Computer Science and collecting various links an
 
 ## Table of contents
 
-- [Recomendations](#recomendations)
+- [Recommendations](#Recommendations)
 - [Github Repositories](#github-repositories)
 - [Web Development](#web-development)
 - [Machine Learning](#machine-learning)
