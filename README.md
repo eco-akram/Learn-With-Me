@@ -15,12 +15,12 @@ I am a student myself, learning Computer Science and collecting various links an
 
 ## Table of contents
 
-- [Recommendations](#Recommendations)
-- [Github Repositories](#github-repositories)
-- [Web Development](#web-development)
-- [Machine Learning](#machine-learning)
-- [Data Science](#data-science)
-- [DevOps](#devops)
+- [Recommendations](#recommendations)
+- [Computer Science](#computer-science)
+- [Github Student Pack](#github-student-pack)
+- [Microsoft Learn](#microsoft-learn)
+- [Linkedin Learning](#linkedin-learning)
+- [Educative.io](#educative-io)
 
 ## Recommendations
 ### Student Bonuses
@@ -34,3 +34,7 @@ First of all, you should apply for the <a href="https://education.github.com/pac
 - And much more...
 
 # Resources
+
+## Web Dev
+
+- <a href="https://github.com/microsoft/Web-Dev-For-Beginners">Microsoft Web Dev For Beginers</a>
